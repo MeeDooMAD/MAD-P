@@ -1,0 +1,8 @@
+Registration,Customer,Issue Type,Details,Status,Date Created
+011IIO,MG,Rego,Registration expires in 0 days,Pending,2025-04-25 13:50:07
+TEST01,Test Vehicle,Fuel,Fuel level is low (15%),Pending,2025-04-25 13:50:07
+TEST01,Test Vehicle,AdBlue,AdBlue needs top up,Pending,2025-04-25 13:50:07
+TEST01,Test Vehicle,Rego,Registration expires in 14 days,Pending,2025-04-25 13:50:07
+TEST01,Test Vehicle,COF,COF expires in 19 days,Pending,2025-04-25 13:50:07
+TEST01,Test Vehicle,RUCs,"RUCs low, only 500 km remaining",Pending,2025-04-25 13:50:07
+TEST01,Test Vehicle,Windscreen,Windscreen condition: Stonechips,Pending,2025-04-25 13:50:07

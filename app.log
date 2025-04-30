@@ -1,0 +1,476 @@
+2025-04-29 09:17:55,359 DEBUG: PostgreSQL database initialized
+2025-04-29 09:17:55,386 WARNING:  * Debugger is active!
+2025-04-29 09:17:55,387 INFO:  * Debugger PIN: 788-638-089
+2025-04-29 09:17:56,058 DEBUG: PostgreSQL database initialized
+2025-04-29 09:34:30,599 DEBUG: PostgreSQL database initialized
+2025-04-29 09:38:49,053 INFO:  * Detected change in '/home/runner/workspace/app_pg.py', reloading
+2025-04-29 09:38:51,595 DEBUG: PostgreSQL database initialized
+2025-04-29 09:38:51,595 DEBUG: PostgreSQL database initialized
+2025-04-29 09:38:51,635 WARNING:  * Debugger is active!
+2025-04-29 09:38:51,637 INFO:  * Debugger PIN: 781-840-485
+2025-04-29 09:40:11,159 INFO:  * Detected change in '/home/runner/workspace/app_pg.py', reloading
+2025-04-29 09:40:13,146 DEBUG: PostgreSQL database initialized
+2025-04-29 09:40:13,177 WARNING:  * Debugger is active!
+2025-04-29 09:40:13,186 INFO:  * Debugger PIN: 717-782-515
+2025-04-29 09:40:13,492 DEBUG: PostgreSQL database initialized
+2025-04-29 09:40:48,531 DEBUG: PostgreSQL database initialized
+2025-04-29 09:40:48,561 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://172.31.128.56:5001
+2025-04-29 09:40:48,561 INFO: [33mPress CTRL+C to quit[0m
+2025-04-29 09:40:48,562 INFO:  * Restarting with stat
+2025-04-29 09:40:49,506 DEBUG: PostgreSQL database initialized
+2025-04-29 09:40:49,526 WARNING:  * Debugger is active!
+2025-04-29 09:40:49,527 INFO:  * Debugger PIN: 138-809-442
+2025-04-29 09:40:50,298 DEBUG: PostgreSQL database initialized
+2025-04-29 09:50:26,153 INFO:  * Detected change in '/home/runner/workspace/app_pg.py', reloading
+2025-04-29 09:50:26,293 INFO:  * Restarting with stat
+2025-04-29 09:50:27,745 DEBUG: PostgreSQL database initialized
+2025-04-29 09:50:27,913 DEBUG: PostgreSQL database initialized
+2025-04-29 09:50:27,949 WARNING:  * Debugger is active!
+2025-04-29 09:50:27,953 INFO:  * Debugger PIN: 756-936-270
+2025-04-29 09:50:38,751 INFO:  * Detected change in '/home/runner/workspace/app_pg.py', reloading
+2025-04-29 09:50:38,844 INFO:  * Restarting with stat
+2025-04-29 09:50:40,005 DEBUG: PostgreSQL database initialized
+2025-04-29 09:50:40,006 DEBUG: PostgreSQL database initialized
+2025-04-29 09:50:40,028 WARNING:  * Debugger is active!
+2025-04-29 09:50:40,029 INFO:  * Debugger PIN: 557-529-442
+2025-04-29 09:50:50,798 INFO:  * Detected change in '/home/runner/workspace/app_pg.py', reloading
+2025-04-29 09:50:50,888 INFO:  * Restarting with stat
+2025-04-29 09:50:52,070 DEBUG: PostgreSQL database initialized
+2025-04-29 09:50:52,099 WARNING:  * Debugger is active!
+2025-04-29 09:50:52,101 INFO:  * Debugger PIN: 119-572-499
+2025-04-29 09:50:52,261 DEBUG: PostgreSQL database initialized
+2025-04-29 09:51:00,911 DEBUG: PostgreSQL database initialized
+2025-04-29 09:51:01,408 DEBUG: PostgreSQL database initialized
+2025-04-29 09:51:01,434 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://172.31.128.56:5001
+2025-04-29 09:51:01,434 INFO: [33mPress CTRL+C to quit[0m
+2025-04-29 09:51:01,435 INFO:  * Restarting with stat
+2025-04-29 09:51:02,423 DEBUG: PostgreSQL database initialized
+2025-04-29 09:51:02,443 WARNING:  * Debugger is active!
+2025-04-29 09:51:02,444 INFO:  * Debugger PIN: 953-273-089
+2025-04-29 09:51:22,864 INFO:  * Detected change in '/home/runner/workspace/app_pg.py', reloading
+2025-04-29 09:51:22,970 INFO:  * Restarting with stat
+2025-04-29 09:51:23,096 DEBUG: PostgreSQL database initialized
+2025-04-29 09:51:24,067 DEBUG: PostgreSQL database initialized
+2025-04-29 09:51:24,094 WARNING:  * Debugger is active!
+2025-04-29 09:51:24,095 INFO:  * Debugger PIN: 900-593-860
+2025-04-29 09:52:43,033 INFO:  * Detected change in '/home/runner/workspace/app_pg.py', reloading
+2025-04-29 09:52:43,184 INFO:  * Restarting with stat
+2025-04-29 09:52:43,503 DEBUG: PostgreSQL database initialized
+2025-04-29 09:52:44,250 DEBUG: PostgreSQL database initialized
+2025-04-29 09:52:44,275 WARNING:  * Debugger is active!
+2025-04-29 09:52:44,276 INFO:  * Debugger PIN: 119-756-509
+2025-04-29 09:53:14,192 INFO:  * Detected change in '/home/runner/workspace/app_pg.py', reloading
+2025-04-29 09:53:14,281 INFO:  * Restarting with stat
+2025-04-29 09:53:17,962 DEBUG: PostgreSQL database initialized
+2025-04-29 09:53:17,984 WARNING:  * Debugger is active!
+2025-04-29 09:53:17,984 INFO:  * Debugger PIN: 409-169-055
+2025-04-29 09:53:18,097 DEBUG: PostgreSQL database initialized
+2025-04-29 09:53:26,622 INFO:  * Detected change in '/home/runner/workspace/app_pg.py', reloading
+2025-04-29 09:53:26,761 INFO:  * Restarting with stat
+2025-04-29 09:53:27,856 DEBUG: PostgreSQL database initialized
+2025-04-29 09:53:27,875 WARNING:  * Debugger is active!
+2025-04-29 09:53:27,876 INFO:  * Debugger PIN: 172-021-307
+2025-04-29 09:53:29,197 DEBUG: PostgreSQL database initialized
+2025-04-29 09:53:37,618 INFO:  * Detected change in '/home/runner/workspace/app_pg.py', reloading
+2025-04-29 09:53:37,758 INFO:  * Restarting with stat
+2025-04-29 09:53:38,401 DEBUG: PostgreSQL database initialized
+2025-04-29 09:53:38,900 DEBUG: PostgreSQL database initialized
+2025-04-29 09:53:38,918 WARNING:  * Debugger is active!
+2025-04-29 09:53:38,919 INFO:  * Debugger PIN: 973-867-378
+2025-04-29 09:53:45,557 DEBUG: PostgreSQL database initialized
+2025-04-29 09:53:46,115 DEBUG: PostgreSQL database initialized
+2025-04-29 09:53:46,144 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://172.31.128.56:5001
+2025-04-29 09:53:46,144 INFO: [33mPress CTRL+C to quit[0m
+2025-04-29 09:53:46,145 INFO:  * Restarting with stat
+2025-04-29 09:53:47,103 DEBUG: PostgreSQL database initialized
+2025-04-29 09:53:47,122 WARNING:  * Debugger is active!
+2025-04-29 09:53:47,123 INFO:  * Debugger PIN: 318-579-368
+2025-04-29 09:54:03,268 INFO:  * Detected change in '/home/runner/workspace/app_pg.py', reloading
+2025-04-29 09:54:03,355 INFO:  * Restarting with stat
+2025-04-29 09:54:04,426 DEBUG: PostgreSQL database initialized
+2025-04-29 09:54:04,462 WARNING:  * Debugger is active!
+2025-04-29 09:54:04,464 INFO:  * Debugger PIN: 798-022-908
+2025-04-29 09:54:04,652 DEBUG: PostgreSQL database initialized
+2025-04-29 09:54:14,153 INFO:  * Detected change in '/home/runner/workspace/app_pg.py', reloading
+2025-04-29 09:54:14,245 INFO:  * Restarting with stat
+2025-04-29 09:54:15,588 DEBUG: PostgreSQL database initialized
+2025-04-29 09:54:15,611 WARNING:  * Debugger is active!
+2025-04-29 09:54:15,612 INFO:  * Debugger PIN: 461-812-483
+2025-04-29 09:54:15,925 DEBUG: PostgreSQL database initialized
+2025-04-29 09:54:56,217 INFO:  * Detected change in '/home/runner/workspace/app_pg.py', reloading
+2025-04-29 09:54:56,319 INFO:  * Restarting with stat
+2025-04-29 09:54:57,123 DEBUG: PostgreSQL database initialized
+2025-04-29 09:54:57,479 DEBUG: PostgreSQL database initialized
+2025-04-29 09:54:57,501 WARNING:  * Debugger is active!
+2025-04-29 09:54:57,504 INFO:  * Debugger PIN: 114-967-396
+2025-04-29 10:00:18,077 INFO:  * Detected change in '/home/runner/workspace/app_pg.py', reloading
+2025-04-29 10:00:18,166 INFO:  * Restarting with stat
+2025-04-29 10:00:19,314 DEBUG: PostgreSQL database initialized
+2025-04-29 10:00:19,334 WARNING:  * Debugger is active!
+2025-04-29 10:00:19,337 INFO:  * Debugger PIN: 997-512-500
+2025-04-29 10:00:19,397 DEBUG: PostgreSQL database initialized
+2025-04-29 10:00:42,955 INFO:  * Detected change in '/home/runner/workspace/app_pg.py', reloading
+2025-04-29 10:00:43,107 INFO:  * Restarting with stat
+2025-04-29 10:00:43,718 DEBUG: PostgreSQL database initialized
+2025-04-29 10:00:44,347 DEBUG: PostgreSQL database initialized
+2025-04-29 10:00:44,393 WARNING:  * Debugger is active!
+2025-04-29 10:00:44,397 INFO:  * Debugger PIN: 516-011-721
+2025-04-29 10:00:55,236 DEBUG: PostgreSQL database initialized
+2025-04-29 10:29:37,583 DEBUG: PostgreSQL database initialized
+2025-04-29 10:29:37,609 DEBUG: PostgreSQL database initialized
+2025-04-29 10:29:37,668 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://172.31.128.56:5001
+2025-04-29 10:29:37,668 INFO: [33mPress CTRL+C to quit[0m
+2025-04-29 10:29:37,670 INFO:  * Restarting with stat
+2025-04-29 10:29:38,707 DEBUG: PostgreSQL database initialized
+2025-04-29 10:29:38,726 WARNING:  * Debugger is active!
+2025-04-29 10:29:38,727 INFO:  * Debugger PIN: 410-785-870
+2025-04-29 10:29:58,051 INFO:  * Detected change in '/home/runner/workspace/models_pg.py', reloading
+2025-04-29 10:29:58,149 INFO:  * Restarting with stat
+2025-04-29 10:29:58,712 DEBUG: PostgreSQL database initialized
+2025-04-29 10:29:59,204 DEBUG: PostgreSQL database initialized
+2025-04-29 10:29:59,225 WARNING:  * Debugger is active!
+2025-04-29 10:29:59,226 INFO:  * Debugger PIN: 524-380-869
+2025-04-29 10:30:10,000 INFO:  * Detected change in '/home/runner/workspace/models_pg.py', reloading
+2025-04-29 10:30:10,096 INFO:  * Restarting with stat
+2025-04-29 10:30:10,776 DEBUG: PostgreSQL database initialized
+2025-04-29 10:30:11,171 DEBUG: PostgreSQL database initialized
+2025-04-29 10:30:11,195 WARNING:  * Debugger is active!
+2025-04-29 10:30:11,196 INFO:  * Debugger PIN: 832-108-759
+2025-04-29 10:30:34,810 INFO:  * Detected change in '/home/runner/workspace/app_pg.py', reloading
+2025-04-29 10:30:34,936 INFO:  * Restarting with stat
+2025-04-29 10:30:36,177 DEBUG: PostgreSQL database initialized
+2025-04-29 10:30:36,217 DEBUG: PostgreSQL database initialized
+2025-04-29 10:30:36,241 WARNING:  * Debugger is active!
+2025-04-29 10:30:36,243 INFO:  * Debugger PIN: 185-123-942
+2025-04-29 10:30:55,866 ERROR: Exception on /dashboard [GET]
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1964, in _exec_single_context
+    self.dialect.do_execute(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/sqlalchemy/engine/default.py", line 945, in do_execute
+    cursor.execute(statement, parameters)
+psycopg2.errors.UndefinedColumn: column dropoffs.ruc_amount does not exist
+LINE 2: ...fs.vehicle_category AS dropoffs_vehicle_category, dropoffs.r...
+                                                             ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/flask/app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/flask/app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/flask_login/utils.py", line 290, in decorated_view
+    return current_app.ensure_sync(func)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/app_pg.py", line 740, in dashboard
+    total_dropoffs = Dropoff.query.count()
+                     ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/sqlalchemy/orm/query.py", line 3147, in count
+    self._legacy_from_self(col).enable_eagerloads(False).scalar()
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/sqlalchemy/orm/query.py", line 2836, in scalar
+    ret = self.one()
+          ^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/sqlalchemy/orm/query.py", line 2809, in one
+    return self._iter().one()  # type: ignore
+           ^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/sqlalchemy/orm/query.py", line 2858, in _iter
+    result: Union[ScalarResult[_T], Result[_T]] = self.session.execute(
+                                                  ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/sqlalchemy/orm/session.py", line 2365, in execute
+    return self._execute_internal(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/sqlalchemy/orm/session.py", line 2251, in _execute_internal
+    result: Result[Any] = compile_state_cls.orm_execute_statement(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/sqlalchemy/orm/context.py", line 306, in orm_execute_statement
+    result = conn.execute(
+             ^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1416, in execute
+    return meth(
+           ^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/sqlalchemy/sql/elements.py", line 523, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1638, in _execute_clauseelement
+    ret = self._execute_context(
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1843, in _execute_context
+    return self._exec_single_context(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1983, in _exec_single_context
+    self._handle_dbapi_exception(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 2352, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1964, in _exec_single_context
+    self.dialect.do_execute(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/sqlalchemy/engine/default.py", line 945, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.ProgrammingError: (psycopg2.errors.UndefinedColumn) column dropoffs.ruc_amount does not exist
+LINE 2: ...fs.vehicle_category AS dropoffs_vehicle_category, dropoffs.r...
+                                                             ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT dropoffs.id AS dropoffs_id, dropoffs.rego AS dropoffs_rego, dropoffs.name AS dropoffs_name, dropoffs.staff_name AS dropoffs_staff_name, dropoffs.insurance_status AS dropoffs_insurance_status, dropoffs.rego_expiry AS dropoffs_rego_expiry, dropoffs.cof_expiry AS dropoffs_cof_expiry, dropoffs.on_road_issues AS dropoffs_on_road_issues, dropoffs.current_rucs AS dropoffs_current_rucs, dropoffs.next_hire_date AS dropoffs_next_hire_date, dropoffs.next_hire_length AS dropoffs_next_hire_length, dropoffs.km_pickup AS dropoffs_km_pickup, dropoffs.km_dropoff AS dropoffs_km_dropoff, dropoffs.trip_km AS dropoffs_trip_km, dropoffs.service_due_km AS dropoffs_service_due_km, dropoffs.windscreen_condition AS dropoffs_windscreen_condition, dropoffs.fuel_level AS dropoffs_fuel_level, dropoffs.adblue_level AS dropoffs_adblue_level, dropoffs.keys_working AS dropoffs_keys_working, dropoffs.remote_working AS dropoffs_remote_working, dropoffs.safe_emptied AS dropoffs_safe_emptied, dropoffs.damage_check AS dropoffs_damage_check, dropoffs.damage_areas AS dropoffs_damage_areas, dropoffs.review_requested AS dropoffs_review_requested, dropoffs.customer_notes AS dropoffs_customer_notes, dropoffs.mad_challenge_status AS dropoffs_mad_challenge_status, dropoffs.date_returned AS dropoffs_date_returned, dropoffs.status AS dropoffs_status, dropoffs.damage_image_filename AS dropoffs_damage_image_filename, dropoffs.additional_damage_images AS dropoffs_additional_damage_images, dropoffs.urgent_assessment AS dropoffs_urgent_assessment, dropoffs.dropoff_eta AS dropoffs_dropoff_eta, dropoffs.vehicle_category AS dropoffs_vehicle_category, dropoffs.ruc_amount AS dropoffs_ruc_amount 
+FROM dropoffs) AS anon_1]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-04-29 10:30:57,646 INFO:  * Detected change in '/home/runner/workspace/app_pg.py', reloading
+2025-04-29 10:30:57,835 INFO:  * Restarting with stat
+2025-04-29 10:30:59,680 DEBUG: PostgreSQL database initialized
+2025-04-29 10:30:59,705 WARNING:  * Debugger is active!
+2025-04-29 10:30:59,706 INFO:  * Debugger PIN: 115-530-233
+2025-04-29 10:30:59,909 DEBUG: PostgreSQL database initialized
+2025-04-29 10:31:00,084 ERROR: Exception on /dashboard [GET]
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1964, in _exec_single_context
+    self.dialect.do_execute(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/sqlalchemy/engine/default.py", line 945, in do_execute
+    cursor.execute(statement, parameters)
+psycopg2.errors.UndefinedColumn: column dropoffs.ruc_amount does not exist
+LINE 2: ...fs.vehicle_category AS dropoffs_vehicle_category, dropoffs.r...
+                                                             ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/flask/app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/flask/app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/flask_login/utils.py", line 290, in decorated_view
+    return current_app.ensure_sync(func)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/app_pg.py", line 741, in dashboard
+    total_dropoffs = Dropoff.query.count()
+                     ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/sqlalchemy/orm/query.py", line 3147, in count
+    self._legacy_from_self(col).enable_eagerloads(False).scalar()
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/sqlalchemy/orm/query.py", line 2836, in scalar
+    ret = self.one()
+          ^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/sqlalchemy/orm/query.py", line 2809, in one
+    return self._iter().one()  # type: ignore
+           ^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/sqlalchemy/orm/query.py", line 2858, in _iter
+    result: Union[ScalarResult[_T], Result[_T]] = self.session.execute(
+                                                  ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/sqlalchemy/orm/session.py", line 2365, in execute
+    return self._execute_internal(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/sqlalchemy/orm/session.py", line 2251, in _execute_internal
+    result: Result[Any] = compile_state_cls.orm_execute_statement(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/sqlalchemy/orm/context.py", line 306, in orm_execute_statement
+    result = conn.execute(
+             ^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1416, in execute
+    return meth(
+           ^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/sqlalchemy/sql/elements.py", line 523, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1638, in _execute_clauseelement
+    ret = self._execute_context(
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1843, in _execute_context
+    return self._exec_single_context(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1983, in _exec_single_context
+    self._handle_dbapi_exception(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 2352, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1964, in _exec_single_context
+    self.dialect.do_execute(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/sqlalchemy/engine/default.py", line 945, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.ProgrammingError: (psycopg2.errors.UndefinedColumn) column dropoffs.ruc_amount does not exist
+LINE 2: ...fs.vehicle_category AS dropoffs_vehicle_category, dropoffs.r...
+                                                             ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT dropoffs.id AS dropoffs_id, dropoffs.rego AS dropoffs_rego, dropoffs.name AS dropoffs_name, dropoffs.staff_name AS dropoffs_staff_name, dropoffs.insurance_status AS dropoffs_insurance_status, dropoffs.rego_expiry AS dropoffs_rego_expiry, dropoffs.cof_expiry AS dropoffs_cof_expiry, dropoffs.on_road_issues AS dropoffs_on_road_issues, dropoffs.current_rucs AS dropoffs_current_rucs, dropoffs.next_hire_date AS dropoffs_next_hire_date, dropoffs.next_hire_length AS dropoffs_next_hire_length, dropoffs.km_pickup AS dropoffs_km_pickup, dropoffs.km_dropoff AS dropoffs_km_dropoff, dropoffs.trip_km AS dropoffs_trip_km, dropoffs.service_due_km AS dropoffs_service_due_km, dropoffs.windscreen_condition AS dropoffs_windscreen_condition, dropoffs.fuel_level AS dropoffs_fuel_level, dropoffs.adblue_level AS dropoffs_adblue_level, dropoffs.keys_working AS dropoffs_keys_working, dropoffs.remote_working AS dropoffs_remote_working, dropoffs.safe_emptied AS dropoffs_safe_emptied, dropoffs.damage_check AS dropoffs_damage_check, dropoffs.damage_areas AS dropoffs_damage_areas, dropoffs.review_requested AS dropoffs_review_requested, dropoffs.customer_notes AS dropoffs_customer_notes, dropoffs.mad_challenge_status AS dropoffs_mad_challenge_status, dropoffs.date_returned AS dropoffs_date_returned, dropoffs.status AS dropoffs_status, dropoffs.damage_image_filename AS dropoffs_damage_image_filename, dropoffs.additional_damage_images AS dropoffs_additional_damage_images, dropoffs.urgent_assessment AS dropoffs_urgent_assessment, dropoffs.dropoff_eta AS dropoffs_dropoff_eta, dropoffs.vehicle_category AS dropoffs_vehicle_category, dropoffs.ruc_amount AS dropoffs_ruc_amount 
+FROM dropoffs) AS anon_1]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-04-29 10:31:45,852 INFO:  * Detected change in '/home/runner/workspace/app_pg.py', reloading
+2025-04-29 10:31:45,965 INFO:  * Restarting with stat
+2025-04-29 10:31:47,024 DEBUG: PostgreSQL database initialized
+2025-04-29 10:31:47,044 WARNING:  * Debugger is active!
+2025-04-29 10:31:47,046 INFO:  * Debugger PIN: 111-971-019
+2025-04-29 10:31:47,115 DEBUG: PostgreSQL database initialized
+2025-04-29 10:32:04,823 DEBUG: PostgreSQL database initialized
+2025-04-29 10:32:05,328 DEBUG: PostgreSQL database initialized
+2025-04-29 10:32:05,367 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://172.31.128.56:5001
+2025-04-29 10:32:05,367 INFO: [33mPress CTRL+C to quit[0m
+2025-04-29 10:32:05,368 INFO:  * Restarting with stat
+2025-04-29 10:32:06,465 DEBUG: PostgreSQL database initialized
+2025-04-29 10:32:06,486 WARNING:  * Debugger is active!
+2025-04-29 10:32:06,487 INFO:  * Debugger PIN: 821-448-568
+2025-04-29 10:33:46,697 INFO:  * Detected change in '/home/runner/workspace/app_pg.py', reloading
+2025-04-29 10:33:46,838 INFO:  * Restarting with stat
+2025-04-29 10:33:49,941 DEBUG: PostgreSQL database initialized
+2025-04-29 10:33:50,082 DEBUG: PostgreSQL database initialized
+2025-04-29 10:33:50,104 WARNING:  * Debugger is active!
+2025-04-29 10:33:50,105 INFO:  * Debugger PIN: 408-194-455
+2025-04-29 10:34:45,094 DEBUG: PostgreSQL database initialized
+2025-04-29 10:34:45,131 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://172.31.128.56:5001
+2025-04-29 10:34:45,132 INFO: [33mPress CTRL+C to quit[0m
+2025-04-29 10:34:45,133 INFO:  * Restarting with stat
+2025-04-29 10:34:46,316 DEBUG: PostgreSQL database initialized
+2025-04-29 10:34:46,336 WARNING:  * Debugger is active!
+2025-04-29 10:34:46,337 INFO:  * Debugger PIN: 123-719-688
+2025-04-29 10:34:46,719 DEBUG: PostgreSQL database initialized
+2025-04-29 10:46:28,856 DEBUG: PostgreSQL database initialized
+2025-04-29 10:46:28,867 DEBUG: PostgreSQL database initialized
+2025-04-29 10:46:28,904 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://172.31.128.56:5001
+2025-04-29 10:46:28,904 INFO: [33mPress CTRL+C to quit[0m
+2025-04-29 10:46:28,905 INFO:  * Restarting with stat
+2025-04-29 10:46:29,985 DEBUG: PostgreSQL database initialized
+2025-04-29 10:46:30,008 WARNING:  * Debugger is active!
+2025-04-29 10:46:30,009 INFO:  * Debugger PIN: 264-280-114
+2025-04-29 10:49:09,494 DEBUG: PostgreSQL database initialized
+2025-04-29 10:49:09,543 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://172.31.128.59:5001
+2025-04-29 10:49:09,544 INFO: [33mPress CTRL+C to quit[0m
+2025-04-29 10:49:09,545 INFO:  * Restarting with stat
+2025-04-29 10:49:09,778 DEBUG: PostgreSQL database initialized
+2025-04-29 10:49:12,632 DEBUG: PostgreSQL database initialized
+2025-04-29 10:49:12,650 WARNING:  * Debugger is active!
+2025-04-29 10:49:12,652 INFO:  * Debugger PIN: 690-027-338
+2025-04-29 10:51:15,522 DEBUG: PostgreSQL database initialized
+2025-04-29 10:51:17,434 DEBUG: PostgreSQL database initialized
+2025-04-29 10:51:17,469 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://172.31.128.59:5001
+2025-04-29 10:51:17,469 INFO: [33mPress CTRL+C to quit[0m
+2025-04-29 10:51:17,470 INFO:  * Restarting with stat
+2025-04-29 10:51:18,494 DEBUG: PostgreSQL database initialized
+2025-04-29 10:51:18,521 WARNING:  * Debugger is active!
+2025-04-29 10:51:18,522 INFO:  * Debugger PIN: 824-245-382
+2025-04-29 10:53:52,516 DEBUG: PostgreSQL database initialized
+2025-04-29 10:53:52,547 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://172.31.128.59:5001
+2025-04-29 10:53:52,548 INFO: [33mPress CTRL+C to quit[0m
+2025-04-29 10:53:52,549 INFO:  * Restarting with stat
+2025-04-29 10:53:53,444 DEBUG: PostgreSQL database initialized
+2025-04-29 10:53:53,598 DEBUG: PostgreSQL database initialized
+2025-04-29 10:53:53,635 WARNING:  * Debugger is active!
+2025-04-29 10:53:53,636 INFO:  * Debugger PIN: 139-585-417
+2025-04-29 10:56:23,953 DEBUG: PostgreSQL database initialized
+2025-04-29 10:56:23,973 DEBUG: PostgreSQL database initialized
+2025-04-29 10:56:24,015 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://172.31.128.59:5001
+2025-04-29 10:56:24,015 INFO: [33mPress CTRL+C to quit[0m
+2025-04-29 10:56:24,016 INFO:  * Restarting with stat
+2025-04-29 10:56:25,098 DEBUG: PostgreSQL database initialized
+2025-04-29 10:56:25,117 WARNING:  * Debugger is active!
+2025-04-29 10:56:25,118 INFO:  * Debugger PIN: 754-267-348
+2025-04-29 10:58:26,390 DEBUG: PostgreSQL database initialized
+2025-04-29 10:58:26,419 DEBUG: PostgreSQL database initialized
+2025-04-29 10:58:26,490 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://172.31.128.59:5001
+2025-04-29 10:58:26,491 INFO: [33mPress CTRL+C to quit[0m
+2025-04-29 10:58:26,492 INFO:  * Restarting with stat
+2025-04-29 10:58:27,765 DEBUG: PostgreSQL database initialized
+2025-04-29 10:58:27,793 WARNING:  * Debugger is active!
+2025-04-29 10:58:27,796 INFO:  * Debugger PIN: 316-577-005
+2025-04-29 11:00:41,419 DEBUG: PostgreSQL database initialized
+2025-04-29 11:00:41,470 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://172.31.128.59:5001
+2025-04-29 11:00:41,470 INFO: [33mPress CTRL+C to quit[0m
+2025-04-29 11:00:41,471 INFO:  * Restarting with stat
+2025-04-29 11:00:42,161 DEBUG: PostgreSQL database initialized
+2025-04-29 11:00:42,688 DEBUG: PostgreSQL database initialized
+2025-04-29 11:00:42,717 WARNING:  * Debugger is active!
+2025-04-29 11:00:42,719 INFO:  * Debugger PIN: 823-655-032
+2025-04-29 11:12:20,160 DEBUG: PostgreSQL database initialized
+2025-04-29 11:12:20,454 DEBUG: PostgreSQL database initialized
+2025-04-29 11:12:20,488 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://172.31.128.59:5001
+2025-04-29 11:12:20,488 INFO: [33mPress CTRL+C to quit[0m
+2025-04-29 11:12:20,489 INFO:  * Restarting with stat
+2025-04-29 11:12:21,481 DEBUG: PostgreSQL database initialized
+2025-04-29 11:12:21,500 WARNING:  * Debugger is active!
+2025-04-29 11:12:21,502 INFO:  * Debugger PIN: 125-911-359
+2025-04-29 11:12:43,281 INFO:  * Detected change in '/home/runner/workspace/app_pg.py', reloading
+2025-04-29 11:12:43,447 INFO:  * Restarting with stat
+2025-04-29 11:12:44,379 DEBUG: PostgreSQL database initialized
+2025-04-29 11:12:44,564 DEBUG: PostgreSQL database initialized
+2025-04-29 11:12:44,585 WARNING:  * Debugger is active!
+2025-04-29 11:12:44,586 INFO:  * Debugger PIN: 725-791-822
+2025-04-29 11:12:55,416 INFO:  * Detected change in '/home/runner/workspace/app_pg.py', reloading
+2025-04-29 11:12:55,496 INFO:  * Restarting with stat
+2025-04-29 11:12:56,612 DEBUG: PostgreSQL database initialized
+2025-04-29 11:12:56,742 DEBUG: PostgreSQL database initialized
+2025-04-29 11:12:56,762 WARNING:  * Debugger is active!
+2025-04-29 11:12:56,763 INFO:  * Debugger PIN: 290-872-795
+2025-04-29 11:14:27,961 DEBUG: PostgreSQL database initialized
+2025-04-29 11:14:27,997 DEBUG: PostgreSQL database initialized
+2025-04-29 11:14:28,071 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://172.31.128.59:5001
+2025-04-29 11:14:28,071 INFO: [33mPress CTRL+C to quit[0m
+2025-04-29 11:14:28,072 INFO:  * Restarting with stat
+2025-04-29 11:14:31,284 DEBUG: PostgreSQL database initialized
+2025-04-29 11:14:31,307 WARNING:  * Debugger is active!
+2025-04-29 11:14:31,308 INFO:  * Debugger PIN: 631-889-136
+2025-04-29 11:15:12,127 INFO:  * Detected change in '/home/runner/workspace/app_pg.py', reloading
+2025-04-29 11:15:12,239 INFO:  * Restarting with stat
+2025-04-29 11:15:13,436 DEBUG: PostgreSQL database initialized
+2025-04-29 11:15:13,542 DEBUG: PostgreSQL database initialized
+2025-04-29 11:15:13,564 WARNING:  * Debugger is active!
+2025-04-29 11:15:13,565 INFO:  * Debugger PIN: 132-293-721
+2025-04-30 05:45:50,372 DEBUG: PostgreSQL database initialized
+2025-04-30 07:32:46,123 DEBUG: PostgreSQL database initialized
+2025-04-30 07:32:59,621 DEBUG: PostgreSQL database initialized
